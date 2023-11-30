@@ -1,0 +1,12 @@
+{
+  "name": "solidity-basics",
+  "version": "1.0.0",
+  "description": "solidity basics",
+  "main": "index.js",
+  "repository": "git@github.com:dev-imbanga/solidity-basics.git",
+  "author": "Imbanga <blackthorn101@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.19.1"
+  }
+}
